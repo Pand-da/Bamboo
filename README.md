@@ -1,2 +1,4 @@
-# This is the intro
+# My Portfolio
 Panda loves bamboo
+
+## What it includes
